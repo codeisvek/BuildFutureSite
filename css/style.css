@@ -46,19 +46,29 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
+.about-section p {
+    line-height:35px;
+    font-size:18px;
+}
+
 
 .schedule-section {
-    padding-top: 100px;
+    padding-top: 50px;
     background: #fff;
 }
 
+.schedule-section p {
+    line-height:35px;
+    font-size:18px;
+}
+
 .policies-section {
-    padding-top: 100px;
+    padding-top: 50px;
     background: #fff;
 }
 
 .contact-section {
-    padding-top: 100px;
+    padding-top: 50px;
     background: #fff;
 }
 
