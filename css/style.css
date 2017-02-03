@@ -134,10 +134,14 @@ a.btn.btn-default.page-scroll:hover {
 
 section.intro-section {
     background-color: #0C99EF;
+    background-image: url('../img/cover3.png');
+    background-repeat: no-repeat;
+    background-position: middle top;
+    background-size: cover;
 }
 
 .intro-section .btn {
-    background-color: #0C99EF;
+    background-color: #1BB8EB;
     color: #ffffff;
 }
 
@@ -162,7 +166,7 @@ section.intro-section {
 
 nav.navbar.navbar-default.navbar-fixed-top {
     border-style: none;
-    background-color: #0C99EF;
+    background-color: #1BB8EB;
     color: #ffffff;
 }
 
