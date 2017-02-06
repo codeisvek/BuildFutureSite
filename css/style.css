@@ -136,7 +136,7 @@ section.intro-section {
     background-color: #0C99EF;
     background-image: url('../img/cover3.png');
     background-repeat: no-repeat;
-    background-position: middle top;
+    background-position: middle bottom;
     background-size: cover;
 }
 
