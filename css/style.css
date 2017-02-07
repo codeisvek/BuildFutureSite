@@ -136,7 +136,7 @@ section.intro-section {
     background-color: #0C99EF;
     background-image: url('../img/cover3.png');
     background-repeat: no-repeat;
-    background-position: middle bottom;
+    background-position: middle top;
     background-size: cover;
 }
 
@@ -148,6 +148,11 @@ section.intro-section {
 .intro-section a.btn.btn-default.page-scroll {
     color: #ffffff;
     border-color: #ffffff;
+}
+
+.intro-section .bottom-border {
+  border-bottom: none;
+  padding-bottom: 50px;
 }
 
 .intro-section a.btn.btn-default.page-scroll:hover {
