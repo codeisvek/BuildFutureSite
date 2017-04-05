@@ -134,6 +134,9 @@ a.btn.btn-default.page-scroll:hover {
 
 section.intro-section {
     background-color: #0C99EF;
+    background-repeat: no-repeat;
+    background-position: middle top;
+    background-size: cover;
 }
 
 .intro-section .btn {
@@ -144,6 +147,11 @@ section.intro-section {
 .intro-section a.btn.btn-default.page-scroll {
     color: #ffffff;
     border-color: #ffffff;
+}
+
+.intro-section .bottom-border {
+  border-bottom: none;
+  padding-bottom: 50px;
 }
 
 .intro-section a.btn.btn-default.page-scroll:hover {
