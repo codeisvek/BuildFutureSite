@@ -1,0 +1,187 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children
+of those sections to manage the look and feel of the site. */
+
+.container {
+  max-width: 960px;
+}
+
+.intro-section {
+    padding-top: 220px;
+    text-align: center;
+    background: #fff;
+}
+
+.about-section {
+    padding-top: 100px;
+    background: #fff;
+}
+
+.about-section p {
+    line-height:35px;
+    font-size:18px;
+}
+
+
+.schedule-section {
+    padding-top: 50px;
+    background: #fff;
+}
+
+.schedule-section p {
+    line-height:35px;
+    font-size:18px;
+}
+
+.policies-section {
+    padding-top: 50px;
+    background: #fff;
+}
+
+.contact-section {
+    padding-top: 50px;
+    background: #fff;
+}
+
+.apply-section {
+    padding-top: 100px;
+    background: #fff;
+    padding-bottom: 150px;
+    text-align: center;
+}
+
+.bottom-border {
+  padding-bottom: 100px;
+  border-bottom: 1px solid #eee;
+}
+
+body {
+    font-family: "Varela Round", sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 500;
+    color: #333;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+}
+
+ul {
+    font-size: 16px;
+    color: #666;
+}
+
+a.btn.btn-default.page-scroll {
+    color: #0C99EF;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-style: solid;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom-width: 4pxpxpxpxpxpx;
+    border-color: #0C99EF;
+    border-top-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    font-size: 16px;
+    border-radius: 0;
+}
+
+a.btn.btn-default.page-scroll:hover {
+    color: #0A80C8;
+    border-color: #0A80C8;
+    background-color: #ffffff;
+}
+
+section.intro-section {
+    background-color: #0C99EF;
+    background-repeat: no-repeat;
+    background-position: middle top;
+    background-size: cover;
+}
+
+.intro-section .btn {
+    background-color: #0C99EF;
+    color: #ffffff;
+}
+
+.intro-section a.btn.btn-default.page-scroll {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.intro-section .bottom-border {
+  border-bottom: none;
+  padding-bottom: 50px;
+}
+
+.intro-section a.btn.btn-default.page-scroll:hover {
+    background-color: #0C99EF;
+    color: #eee;
+    border-color: #eee;
+}
+
+.intro-section p {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.intro-section h1 {
+    color: rgba(255, 255, 255, 1);
+}
+
+nav.navbar.navbar-default.navbar-fixed-top {
+    border-style: none;
+    background-color: #0C99EF;
+    color: #ffffff;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top a {
+    color: #ffffff;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
+    background-color: #ffffff;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse a {
+    color: #333333;
+}
