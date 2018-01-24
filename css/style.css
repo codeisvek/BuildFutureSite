@@ -84,14 +84,24 @@ of those sections to manage the look and feel of the site. */
   border-bottom: 1px solid #eee;
 }
 
+@font-face {
+    font-family: Brandon Grotesque;
+    src: url(fonts/Brandon_blk.otf);
+}
+
 body {
-    font-family: "Varela Round", sans-serif;
+    font-family: Brandon Grotesque;
 }
 
 h1 {
     font-size: 36px;
-    font-weight: 500;
+    /*text-transform: uppercase;*/
+    font-weight: 800;
     color: #333;
+}
+
+.header-logo {
+  width: 45%;
 }
 
 h2 {
@@ -106,7 +116,7 @@ p {
 }
 
 ul {
-    font-size: 16px;
+    font-size: 18px;
     color: #666;
 }
 
