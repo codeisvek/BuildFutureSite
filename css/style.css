@@ -36,7 +36,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .intro-section {
-    padding-top: 220px;
+    padding-top: 140px;
     text-align: center;
     background: #fff;
 }
@@ -85,12 +85,12 @@ of those sections to manage the look and feel of the site. */
 }
 
 @font-face {
-    font-family: Brandon Grotesque;
-    src: url(fonts/Brandon_blk.otf);
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/Brandon_med.otf') format('opentype');
 }
 
 body {
-    font-family: Brandon Grotesque;
+    font-family: 'Brandon Grotesque', 'Varela Round';
 }
 
 h1 {
@@ -101,7 +101,7 @@ h1 {
 }
 
 .header-logo {
-  width: 45%;
+  /*width: 45%;*/
 }
 
 h2 {
@@ -175,6 +175,11 @@ section.intro-section {
 }
 
 .intro-section h1 {
+    color: rgba(255, 255, 255, 1);
+    margin-top:55px;
+}
+
+.intro-section h2 {
     color: rgba(255, 255, 255, 1);
 }
 
