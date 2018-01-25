@@ -188,6 +188,10 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse img {
 }
 
 .intro-section h2 {
+    font-size: 19px;
+}
+
+.intro-section h2 {
     color: rgba(255, 255, 255, 1);
 }
 
