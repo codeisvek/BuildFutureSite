@@ -147,14 +147,23 @@ a.btn.btn-default.page-scroll:hover {
 }
 
 section.intro-section {
-    background-color: #0C99EF;
+    /*background-color: #0C99EF;
     background-repeat: no-repeat;
     background-position: middle top;
     background-size: cover;
+
+    background: url('../img/speakers_banner.png') no-repeat !important;
+    background-size: 100%;*/
+
+    background-image:    url(../img/speakers_bg_f.png);
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;              /* optional, center the image */
 }
 
 .intro-section .btn {
-    background-color: #0C99EF;
+    /*background-color: #0C99EF;*/
+    background-color: transparent;
     color: #ffffff;
 }
 
@@ -180,21 +189,25 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse img {
 
 .intro-section p {
     color: rgba(255, 255, 255, 0.9);
+    text-shadow: 0px 0px 20px #908d8d;
 }
 
 .intro-section h1 {
     color: rgba(255, 255, 255, 1);
     margin-top:55px;
+    text-shadow: 0px 0px 20px #908d8d;
 }
 
 .intro-section h2 {
     color: rgba(255, 255, 255, 1);
     font-size: 19px;
+    text-shadow: 0px 0px 20px #908d8d;
 }
 
 nav.navbar.navbar-default.navbar-fixed-top {
     border-style: none;
-    background-color: #0C99EF;
+    /*background-color: #0C99EF;*/
+    background-color: transparent;
     color: #ffffff;
 }
 
