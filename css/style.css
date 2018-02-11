@@ -131,7 +131,7 @@ a.btn.btn-default.page-scroll {
     border-style: solid;
     padding-left: 0;
     padding-right: 0;
-    border-bottom-width: 4pxpxpxpxpxpx;
+    border-bottom-width: 2fhovpx;
     border-color: #0C99EF;
     border-top-width: 0;
     border-left-width: 0;
@@ -179,9 +179,10 @@ section.intro-section {
 }
 
 .intro-section a.btn.btn-default.page-scroll:hover {
-    background-color: #0C99EF;
+    background-color: transparent;
     color: #eee;
     border-color: #eee;
+    /*text-shadow: 0px 0px 20px #505050;*/
 }
 
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse img {
