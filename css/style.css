@@ -127,7 +127,7 @@ ul {
 a.btn.btn-default.page-scroll {
     color: #0C99EF;
     font-weight: bold;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     border-style: solid;
     padding-left: 0;
     padding-right: 0;
