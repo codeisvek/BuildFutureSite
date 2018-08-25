@@ -216,6 +216,7 @@ button > .hamburger-icon{
   background-color: #4e77f7;
   border-radius: 4px;
   color: white;
+  cursor: pointer;
 }
 
 /* ---------- ABOUT PAGE ---------- */
