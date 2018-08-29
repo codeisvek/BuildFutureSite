@@ -404,11 +404,32 @@ button > .hamburger-icon{
   background-position: center;
 }
 
+#matthew-prince-img {
+  background-image: url("../assets/matthew-prince.jpg");
+  background-repeat: no-repeat;
+  background-size: 195%;
+  background-position: -120px 0px;
+}
+
+#patrick-lee-img {
+  background-image: url("../assets/patrick-lee.png");
+  background-repeat: no-repeat;
+  background-size: 115%;
+  background-position: center;
+}
+
 #ben-herman-img {
   background-image: url("../assets/ben-herman.jpeg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
+}
+
+#pejman-nozad-img {
+  background-image: url("../assets/pejman-nozad.png");
+  background-repeat: no-repeat;
+  background-size: 200%;
+  background-position: -250px;
 }
 
 #chad-rigetti-img {
@@ -555,5 +576,12 @@ button > .hamburger-icon{
   background-image: url("../assets/parker.png");
   background-repeat: no-repeat;
   background-size: 100%;
+  background-position: center;
+}
+
+#maitri-img {
+  background-image: url("../assets/maitri.jpg");
+  background-repeat: no-repeat;
+  background-size: 120%;
   background-position: center;
 }
