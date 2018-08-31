@@ -252,19 +252,19 @@ button > .hamburger-icon{
 }
 
 #thehouse-img {
-  width: 4.5vw;
+  height: 72px;
 }
 
 #bearfounders-img {
-  height: 3vw;
+  height: 54px;
 }
 
 #citrisfoundry-img {
-  height: 4.5vw;
+  height: 72px;
 }
 
 #freev-img {
-  height: 5.5vw;
+  height: 100px;
 }
 
 #berkeleyeng-img {
@@ -430,6 +430,13 @@ button > .hamburger-icon{
   background-repeat: no-repeat;
   background-size: 200%;
   background-position: -250px;
+}
+
+#nagraj-kashyap-img {
+  background-image: url("../assets/nagraj-kashyap.jpg");
+  background-repeat: no-repeat;
+  background-size: 170%;
+  background-position: -10px;
 }
 
 #chad-rigetti-img {
