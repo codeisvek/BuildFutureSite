@@ -589,6 +589,20 @@ button > .hamburger-icon{
 #maitri-img {
   background-image: url("../assets/maitri.jpg");
   background-repeat: no-repeat;
-  background-size: 120%;
+  background-size: 140%;
+  background-position: -100px;
+}
+
+#daniel-img {
+  background-image: url("../assets/daniel.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+#aakash-img {
+  background-image: url("../assets/aakash.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
   background-position: center;
 }
