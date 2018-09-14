@@ -231,6 +231,11 @@ button > .hamburger-icon{
   width: 100%;
 }
 
+#sponsors-section {
+  width: 100%;
+  margin-top: 40px;
+}
+
 #press-section {
   width: 100%;
   margin-top: 40px;
@@ -252,11 +257,13 @@ button > .hamburger-icon{
 }
 
 #thehouse-img {
-  height: 72px;
+  margin-top: -5px;
+  margin-bottom: -5px;
+  height: 130px;
 }
 
 #bearfounders-img {
-  height: 54px;
+  height: 50px;
 }
 
 #citrisfoundry-img {
@@ -395,6 +402,13 @@ button > .hamburger-icon{
   background-repeat: no-repeat;
   background-size: 125%;
   background-position: -10px -10px;
+}
+
+#cameron-baradar-img {
+  background-image: url("../assets/cameron-baradar.jpg");
+  background-repeat: no-repeat;
+  background-size: 170%;
+  background-position: -150px;
 }
 
 #elizabeth-iorns-img {
