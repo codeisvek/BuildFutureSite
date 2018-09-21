@@ -411,6 +411,13 @@ button > .hamburger-icon{
   background-position: -150px;
 }
 
+#sanne-manders-img {
+  background-image: url("../assets/sanne-manders.jpg");
+  background-repeat: no-repeat;
+  background-size: 210%;
+  background-position: -120px;
+}
+
 #elizabeth-iorns-img {
   background-image: url("../assets/elizabeth-iorns.jpg");
   background-repeat: no-repeat;
