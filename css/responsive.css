@@ -111,6 +111,9 @@
     flex-direction: column;
     width: 360px;
   }
+  .landing-sponsored-text {
+    width: auto;
+  }
 
   .landing-page-header {
     text-align: center;
@@ -125,6 +128,7 @@
 
   #landing-img {
     width: 370px;
+    height: 350px;
   }
 
   .calendar {
@@ -132,7 +136,7 @@
   }
 
   #speaker-page {
-    margin-top: -160px;
+    margin-top: 0px;
   }
 
   .assignments {
