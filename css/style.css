@@ -482,6 +482,13 @@ button > .hamburger-icon{
   background-position: center;
 }
 
+#andrew-kortina-img {
+  background-image: url("../assets/andrew-kortina.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 0px 0px;
+}
+
 /* ---------- ASSIGNMENTS PAGE ---------- */
 
 .assignments {
